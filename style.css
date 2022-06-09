@@ -1,11 +1,18 @@
-.topflex {
+body {
+   /* background-color: #1f2937;*/
+   margin-top: 0px;
+   margin-left: 0px;
+   margin-right: 0px;
+}
+.topfondo{
     background-color: #1f2937;
     color: #F9FAF8;
     font-size: 20px;
+}
+.topflex {
     justify-content: space-around;
     display: flex;
-    margin: 0px;
-    width: 100%;
-    padding-top: 0px;
 }
-
+.top {
+    background-color: #1f2937;
+}
